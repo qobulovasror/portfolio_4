@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "resume": "Resume",
+    "portfolio": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "greeting": "Hi, I'm",
+    "name": "Asror Qobulov",
+    "roles": ["Full-Stack Developer", "React Engineer", "Freelancer", "Open-Source Enthusiast"],
+    "tagline": "I craft modern, performant, and accessible web applications that users love.",
+    "cta_projects": "View my work",
+    "cta_contact": "Get in touch",
+    "scroll": "Scroll to explore"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Know me better",
+    "heading": "Full-Stack Web Developer based in Samarkand",
+    "p1": "I'm a passionate developer specializing in modern web technologies. I love turning complex problems into simple, beautiful, and intuitive solutions.",
+    "p2": "With strong fundamentals in JavaScript, React, and Node.js, I build end-to-end applications — from pixel-perfect interfaces to scalable backend services and databases.",
+    "info_title": "Personal Information",
+    "name_label": "Name",
+    "age_label": "Age",
+    "residence_label": "Residence",
+    "freelance_label": "Freelance",
+    "available": "Available",
+    "email_label": "Email",
+    "download_cv": "Download CV",
+    "hire_me": "Hire me",
+    "services_title": "What I Do",
+    "services": {
+      "web_dev": {
+        "title": "Web Development",
+        "desc": "Building fast, responsive websites and progressive web apps using modern tooling."
+      },
+      "responsive": {
+        "title": "Responsive Design",
+        "desc": "Pixel-perfect interfaces that look stunning on every device, from phones to widescreens."
+      },
+      "fullstack": {
+        "title": "Full-Stack Apps",
+        "desc": "End-to-end solutions: REST/GraphQL APIs, databases, auth, real-time, and deployment."
+      },
+      "mobile": {
+        "title": "Mobile Apps",
+        "desc": "Cross-platform mobile applications built with React Native for iOS and Android."
+      }
+    }
+  },
+  "resume": {
+    "title": "Resume",
+    "subtitle": "My career journey",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Tools & Other",
+    "present": "Present",
+    "exp": {
+      "freelance": {
+        "title": "Freelance Web Developer",
+        "company": "Self-employed",
+        "desc": "Building custom websites and web applications for clients across various industries."
+      },
+      "internship": {
+        "title": "Frontend Developer Intern",
+        "company": "WEPRO IT Academy, Samarkand",
+        "desc": "Developed responsive UIs in React, collaborated with designers and backend engineers."
+      },
+      "software engineer": {
+        "title": "Software Engineer",
+        "company": "SUMMERTECH LLC, Tashkent",
+        "desc": "Developing full-stack web applications, creating RESTful APIs, and managing databases."
+       }
+    },
+    "edu": {
+      "university": {
+        "title": "Software Engineering",
+        "school": "Samarkand State University",
+        "desc": "Bachelor's degree in software engineering — algorithms, data structures, databases, and software architecture."
+      },
+      "academy": {
+        "title": "Frontend Development",
+        "school": "WEPRO IT Academy, Samarkand",
+        "desc": "Intensive program covering HTML, CSS, JavaScript, React, and modern frontend tooling."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Projects",
+    "subtitle": "Selected work",
+    "heading": "Recent Projects",
+    "all": "All",
+    "live_demo": "Live Demo",
+    "source_code": "Source Code",
+    "categories": {
+      "web": "Web",
+      "mobile": "Mobile",
+      "desktop": "Desktop"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Thoughts & tutorials",
+    "heading": "Latest Articles",
+    "read_more": "Read more",
+    "back": "Back to all posts",
+    "min_read": "min read",
+    "no_posts": "No posts yet. Check back soon!"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch",
+    "heading": "Let's build something together",
+    "p": "Have a project in mind? Looking for a collaborator? Or just want to say hi? Drop me a line — I'll respond within 24 hours.",
+    "email": "Email",
+    "location": "Location",
+    "telegram": "Telegram",
+    "form_title": "Send a message",
+    "form_name": "Your name",
+    "form_email": "Your email",
+    "form_subject": "Subject",
+    "form_message": "Your message",
+    "form_submit": "Send message",
+    "form_sending": "Sending...",
+    "form_success": "Message sent! I'll get back to you soon.",
+    "form_error": "Something went wrong. Please try again."
+  },
+  "common": {
+    "menu": "Menu",
+    "close": "Close",
+    "theme_light": "Light mode",
+    "theme_dark": "Dark mode",
+    "language": "Language"
+  }
+}

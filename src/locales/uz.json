@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Men haqimda",
+    "resume": "Rezyume",
+    "portfolio": "Loyihalar",
+    "blog": "Blog",
+    "contact": "Aloqa"
+  },
+  "home": {
+    "greeting": "Assalomu alaykum, men",
+    "name": "Asror Qobulov",
+    "roles": ["Full-Stack Dasturchi", "React Muhandis", "Freelanser", "Open-Source ishqibozi"],
+    "tagline": "Foydalanuvchilarga yoqadigan zamonaviy, tezkor va qulay veb-ilovalar yarataman.",
+    "cta_projects": "Ishlarimni ko'rish",
+    "cta_contact": "Bog'lanish",
+    "scroll": "Pastga aylantiring"
+  },
+  "about": {
+    "title": "Men haqimda",
+    "subtitle": "Meni yaxshiroq taning",
+    "heading": "Samarqandlik Full-Stack veb dasturchi",
+    "p1": "Men zamonaviy veb texnologiyalarga ixtisoslashgan ishtiyoqli dasturchiman. Murakkab muammolarni oddiy, chiroyli va intuitiv yechimlarga aylantirishni yaxshi ko'raman.",
+    "p2": "JavaScript, React va Node.js bo'yicha mustahkam bilim bilan, men piksel aniqligidagi interfeyslardan tortib, kengaytiriladigan backend xizmatlari va ma'lumotlar bazalarigacha — to'liq ilovalar yarataman.",
+    "info_title": "Shaxsiy ma'lumotlar",
+    "name_label": "Ism",
+    "age_label": "Yosh",
+    "residence_label": "Yashash joyi",
+    "freelance_label": "Frilans",
+    "available": "Ochiq",
+    "email_label": "Email",
+    "download_cv": "CV yuklab olish",
+    "hire_me": "Yollash",
+    "services_title": "Nima qilaman",
+    "services": {
+      "web_dev": {
+        "title": "Veb dasturlash",
+        "desc": "Zamonaviy vositalar bilan tezkor, moslashuvchan saytlar va PWA ilovalar quryapman."
+      },
+      "responsive": {
+        "title": "Moslashuvchan dizayn",
+        "desc": "Telefon va katta ekranda bir xil chiroyli ko'rinadigan piksel aniqligidagi interfeyslar."
+      },
+      "fullstack": {
+        "title": "Full-Stack ilovalar",
+        "desc": "To'liq yechimlar: REST/GraphQL API, ma'lumotlar bazasi, autentifikatsiya, real-time va deploy."
+      },
+      "mobile": {
+        "title": "Mobil ilovalar",
+        "desc": "React Native yordamida iOS va Android uchun kross-platform mobil ilovalar."
+      }
+    }
+  },
+  "resume": {
+    "title": "Rezyume",
+    "subtitle": "Mening yo'lim",
+    "experience": "Ish tajribasi",
+    "education": "Ta'lim",
+    "skills": "Ko'nikmalar",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Vositalar va boshqalar",
+    "present": "Hozirgacha",
+    "exp": {
+      "freelance": {
+        "title": "Frilans veb dasturchi",
+        "company": "Mustaqil",
+        "desc": "Turli sohalardagi mijozlar uchun maxsus saytlar va veb-ilovalar yaratish."
+      },
+      "internship": {
+        "title": "Frontend dasturchi (stajirovka)",
+        "company": "WEPRO IT Academy, Samarqand",
+        "desc": "React'da moslashuvchan interfeyslar ishlab chiqdim, dizayner va backend muhandislar bilan hamkorlikda."
+      },
+      "software engineer": {
+        "title": "Software Engineer",
+        "company": "SUMMERTECH LLC, Tashkent",
+        "desc": "Full-stack veb ilovalar ishlab chiqish, RESTful API'lar yaratish va ma'lumotlar bazasini boshqarish."
+      }
+    },
+    "edu": {
+      "university": {
+        "title": "Dasturiy injiniring",
+        "school": "Samarqand davlat universiteti",
+        "desc": "Dasturiy injiniring bo'yicha bakalavriat — algoritmlar, ma'lumotlar tuzilmalari, bazalar va arxitektura."
+      },
+      "academy": {
+        "title": "Frontend dasturlash",
+        "school": "WEPRO IT Academy, Samarqand",
+        "desc": "HTML, CSS, JavaScript, React va zamonaviy frontend vositalarini qamrab oluvchi intensiv kurs."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Loyihalar",
+    "subtitle": "Tanlangan ishlar",
+    "heading": "So'nggi loyihalar",
+    "all": "Barchasi",
+    "live_demo": "Saytni ko'rish",
+    "source_code": "Manba kodi",
+    "categories": {
+      "web": "Veb",
+      "mobile": "Mobil",
+      "desktop": "Desktop"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Fikrlar va qo'llanmalar",
+    "heading": "So'nggi maqolalar",
+    "read_more": "Davomini o'qish",
+    "back": "Barcha postlarga qaytish",
+    "min_read": "daqiqalik o'qish",
+    "no_posts": "Hali postlar yo'q. Tez orada qaytib keling!"
+  },
+  "contact": {
+    "title": "Aloqa",
+    "subtitle": "Bog'lanish",
+    "heading": "Birgalikda nimadir quraylik",
+    "p": "Loyihangiz bormi? Hamkor qidiryapsizmi? Yoki shunchaki salom aytmoqchimisiz? Yozing — 24 soat ichida javob beraman.",
+    "email": "Email",
+    "location": "Manzil",
+    "telegram": "Telegram",
+    "form_title": "Xabar yuborish",
+    "form_name": "Ismingiz",
+    "form_email": "Emailingiz",
+    "form_subject": "Mavzu",
+    "form_message": "Xabar",
+    "form_submit": "Yuborish",
+    "form_sending": "Yuborilmoqda...",
+    "form_success": "Xabar yuborildi! Tez orada javob beraman.",
+    "form_error": "Xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+  },
+  "common": {
+    "menu": "Menyu",
+    "close": "Yopish",
+    "theme_light": "Yorug' rejim",
+    "theme_dark": "Qorong'u rejim",
+    "language": "Til"
+  }
+}
